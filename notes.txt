@@ -1,0 +1,124 @@
+Adrese IP
+VLANs
+
+Net management
+IP phones
+WLess
+
+50 echip. / VLAN
+
+
+VLAND ID	NET
+1. DEFAULT
+SoftDev1	172.16.7.0/24 -> 172.16.7.254 (default gateway)
+
+172.16.x.x - 172.32.x.x
+
+192.168.x.x
+
+
+
+Ales echipamente
+2 alternative asemanatoare
+
+switch de distributie
+
+TOR (top of the rack)
+BOR (bottom of the rack)
+
+
+24 porturi x 1gbs x 4 links
+
+
+modelul campus 
+
+
+
+
+CISCO, HP, DELL, JUNIPER, HUAWEI, INTEL
+
+Enterprise & small office/home office equipment
+Support contracts for enterprise
+5x8 NBD
+7x2400 
+
+LLTW (limited lifetime warranty)
+Not END OF LIFE
+Linkuri catre fisele de date, de la productaor, nu distribuitor
+
+1. Standalone 
+2. Stackabil -> better performance, port economy; 1 equipment stack = 1 equipment (logically); POE catre access point 
+3. Modular -> chasis with power supply & fan modules (redundant); supervisor - active and one in standby; large initial cost
+Total Cost of Ownership
+2 sau 3
+
+^^ switchuri
+
+
+
+APs:
+minimum IEEE802.11 AC/AX/be
+AX > 1Gbps => 2.5Gbps switch support
+
+POE support
+
+CTRL wless
+BOX / Module in modular / VM (docker container) / Cloud / Ubiquiti - 1 local master in VLAN
+
+
+
+
+Firewall
+
+Content 
+
+Man in the middle firewall -> rata de date criptata pe care o poate analiza
+exfiltrare date
+pattern analysis
+
+Marime
+Putere electrica -> UPS W/kw
+Calduras BTU
+
+AC BTU/KW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
